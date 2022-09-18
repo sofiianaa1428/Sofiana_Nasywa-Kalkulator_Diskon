@@ -7,3 +7,7 @@ Kalkulator ini digunakan sebagai alat menghitung total diskon yang didapatkan ol
 - README.md 
 - Pseudecode.txt 
 - Algoritma.txt 
+
+Dikerjakan Oleh :
+- 'Sofiana Nasywa - BE3272419' 
+ 
