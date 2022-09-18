@@ -5,9 +5,7 @@ Kalkulator ini digunakan sebagai alat menghitung total diskon yang didapatkan ol
 ## Isi dari Repository
 - Flowchart.drawio
 - README.md 
-- Pseudecode.txt 
-- Algoritma.txt 
+- Pseudecode.txt  
 
 Dikerjakan Oleh :
 - 'Sofiana Nasywa - BE3272419' 
- 
